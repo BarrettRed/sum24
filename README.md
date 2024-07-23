@@ -21,6 +21,7 @@
 
 ## Блок-схемы
 
-![[main.png]]
-![[find_minimal_unique_subset.png]]
-![[is_unique_subset.png]]![[list_to_csv_string.png]]
+![[media/main.png]]
+![[media/find_minimal_unique_subset.png]]
+![[meida/is_unique_subset.png]]
+![[media/list_to_csv_string.png]]
