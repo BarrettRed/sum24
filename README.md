@@ -21,7 +21,18 @@
 
 ## Блок-схемы
 
-![[media/main.png]]
-![[media/find_minimal_unique_subset.png]]
-![[meida/is_unique_subset.png]]
-![[media/list_to_csv_string.png]]
+### Основная функция
+
+![main](media/main.png)
+
+### Функция `find_minimal_unique_identifier`
+
+![find_minimal_unique_identifier](media/find_minimal_unique_subset.png)
+
+### Функция `is_unique_subset`
+
+![is_unique_subset](media/is_unique_subset.png)
+
+### Функция `list_to_csv_string`
+
+![list_to_csv_string](media/list_to_csv_string.png)
